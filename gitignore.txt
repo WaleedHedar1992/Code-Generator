@@ -1,0 +1,13 @@
+# Build Folders
+bin/
+obj/
+publish/
+
+# Visual Studio temporary files
+*.user
+*.suo
+*.log
+*.vs/
+
+# Others
+*.pdb
