@@ -1,0 +1,52 @@
+C:\Users\20112\CodeGeneratorPublish\CodeGeneratore 0.1.exe
+C:\Users\20112\CodeGeneratorPublish\CodeGeneratore 0.1.dll
+C:\Users\20112\CodeGeneratorPublish\CodeGeneratore 0.1.deps.json
+C:\Users\20112\CodeGeneratorPublish\CodeGeneratore 0.1.runtimeconfig.json
+C:\Users\20112\CodeGeneratorPublish\CodeGeneratore 0.1.pdb
+C:\Users\20112\CodeGeneratorPublish\Azure.Core.dll
+C:\Users\20112\CodeGeneratorPublish\Azure.Identity.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Bcl.Cryptography.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Data.SqlClient.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.Options.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Extensions.Primitives.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Identity.Client.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.Logging.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.Protocols.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.IdentityModel.Tokens.dll
+C:\Users\20112\CodeGeneratorPublish\Microsoft.SqlServer.Server.dll
+C:\Users\20112\CodeGeneratorPublish\Newtonsoft.Json.dll
+C:\Users\20112\CodeGeneratorPublish\System.ClientModel.dll
+C:\Users\20112\CodeGeneratorPublish\System.Configuration.ConfigurationManager.dll
+C:\Users\20112\CodeGeneratorPublish\System.Diagnostics.EventLog.dll
+C:\Users\20112\CodeGeneratorPublish\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\20112\CodeGeneratorPublish\System.Memory.Data.dll
+C:\Users\20112\CodeGeneratorPublish\System.Security.Cryptography.Pkcs.dll
+C:\Users\20112\CodeGeneratorPublish\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\20112\CodeGeneratorPublish\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
